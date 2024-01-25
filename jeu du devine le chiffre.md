@@ -1,5 +1,5 @@
 ---
-title: "Explication des scripts"
+title: "Jeu du devine le chiffre"
 order: 1
 in_menu: true
 ---

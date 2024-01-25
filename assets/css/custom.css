@@ -1,3 +1,8 @@
 :root {
     --couleur-primaire : #07357d;
+
+}
+
+body {
+    font-family: Arial,sans-serif;
 }

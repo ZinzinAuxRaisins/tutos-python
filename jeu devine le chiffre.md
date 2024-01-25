@@ -1,10 +1,8 @@
 ---
-title: "Scripts Python"
+title: "Jeu devine le chiffre"
 order: 1
 in_menu: true
 ---
-# Jeu devine le chiffre
-
 ``` python
 from random import randint
 

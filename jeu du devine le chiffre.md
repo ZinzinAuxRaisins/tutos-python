@@ -4,6 +4,7 @@ order: 1
 in_menu: true
 ---
 # Jeu devine le chiffre
+
 ``` python
 from random import randint
 
@@ -47,6 +48,7 @@ print()
 chiffreDevine = int(input("Devine le chiffre\n"))
 print()
 ```
+
 Ici on demande à l'utilisateur un chiffre à deviner, on stock la valeur dans une variable que l'on nomme __*chiffreDevine*__.
 
 Les deux lignes __*print()*__ servent à mettre un retour a la ligne avant et après le texte de demande, utile pour la mise en forme.

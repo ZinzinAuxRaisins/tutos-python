@@ -3,6 +3,8 @@ title: "Blog pain aux raisins"
 order: 4
 in_menu: true
 ---
+![Texte décrivant l'image]({% link images/i86084-pain-aux-raisins-maison.webp %})
+
 # À la découverte des Pains aux Raisins : Une Élégance Viennoise à Chaque Bouchée
 
 ---

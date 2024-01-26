@@ -18,7 +18,8 @@ h1 {
     margin-left: -10rem;
     padding-right: 1rem;
     margin-right: -10rem;
-    background-color: radial-gradient(circle, rgba(249,63,251,1) 0%, rgba(70,86,252,1) 87%);
+    background-color: #8612d6;
+    border: solid #000000;
 }
 
 body {

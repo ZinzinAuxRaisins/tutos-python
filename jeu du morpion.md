@@ -161,7 +161,7 @@ def jouer():
 ## Bloc if __name__ == "__main__"::
 
 ```python
-if __name__ == "__main__":
+## Bloc if \_\_name__ == "\_\_main__":
     jouer()
 ```
 

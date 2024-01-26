@@ -158,10 +158,10 @@ def jouer():
 
 - Si la case est déjà occupée ou si les indices sont invalides, un message est affiché et le joueur doit réessayer.
 
-## Bloc if __name__ == "__main__"::
+## Bloc if \_\_name__ == "\_\_main__":
 
 ```python
-## Bloc if \_\_name__ == "\_\_main__":
+if __name__ == "__main__":
     jouer()
 ```
 

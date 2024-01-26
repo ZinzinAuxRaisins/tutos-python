@@ -13,9 +13,13 @@ Les amoureux de viennoiseries connaissent bien l'art de la pâtisserie qui se ca
 
 ## L'Origine des Pains aux Raisins
 
+![Texte décrivant l'image]({% link images/19eme-siecle-gravure-d-une-boulangerie-photographie-d-un-livre-intitule-photos-tirees-avec-stylo-et-crayon-publie-dans-l-efm18h.jpg %})
+
 Les Pains aux Raisins, également connus sous le nom de "escargot aux raisins" en raison de leur forme caractéristique, ont des racines profondes dans la tradition de la pâtisserie française. Leur création remonte au 19e siècle, où les boulangers parisiens ont commencé à expérimenter avec les techniques de feuilletage pour créer des viennoiseries exquises.
 
 ## La Pâte Feuilletée : Clé de la Légèreté
+
+![Texte décrivant l'image]({% link images/pain au raisin sans gluten.jpg %})
 
 Ce qui distingue les Pains aux Raisins des autres viennoiseries, c'est la pâte feuilletée qui les enveloppe. Cette pâte, constituée de couches fines alternées de beurre et de pâte à pain, donne naissance à une texture légère, feuilletée et croustillante. Chaque bouchée est une explosion de saveurs, alliant la douceur du feuilletage à la richesse des raisins.
 
@@ -37,6 +41,6 @@ En conclusion, les Pains aux Raisins incarnent l'élégance viennoise dans toute
 
 Dans votre prochaine visite à la boulangerie, ne manquez pas l'occasion de savourer l'art subtil des Pains aux Raisins. Ces délices viennois vous transporteront dans un monde où la pâtisserie devient une véritable œuvre d'art à déguster.
 
---- 
+![Texte décrivant l'image]({% link images/Pains-aux-raisons-CAP-3.jpg %})
 
-N'hésitez pas à ajuster le contenu selon vos préférences et le style de votre blog. 
+--- 

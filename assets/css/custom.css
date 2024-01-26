@@ -1,13 +1,8 @@
-:root {
-    --couleur-primaire : #993B1F;
 
-}
+header {background-color:rgba(249,63,251,1);}
+footer {background-color:rgba(249,63,251,1);}
 
-/*
-body {
-    font-family: Arial,sans-serif;
-}
-*/
+
 .highlight {
     padding-left: 1rem;
     margin-left: -10rem;
@@ -19,19 +14,6 @@ body {
 body {
         font-family: Arial,sans-serif;
 	/*background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);*/
-        background: radial-gradient(circle, rgba(249,63,251,1) 0%, rgba(70,86,252,1) 87%);
-	/*animation: gradient 15s ease infinite;*/
+        background: radial-gradient(circle, rgba(249,63,251,1) 35%, rgba(70,86,252,1) 87%);
 	height: 100%;
-}
-
-@keyframes gradient {
-	0% {
-		background-position: 0% 50%;
-	}
-	50% {
-		background-position: 100% 50%;
-	}
-	100% {
-		background-position: 0% 50%;
-	}
 }

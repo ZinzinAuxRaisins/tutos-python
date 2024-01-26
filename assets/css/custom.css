@@ -1,5 +1,5 @@
 :root {
-    --couleur-primaire : #753785;
+    --couleur-primaire : #2a6442;
 
 }
 
@@ -21,7 +21,7 @@ body {
 	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
 	/*background-size: 100% 100%;*/
 	animation: gradient 15s ease infinite;
-	height: 500vh;
+	height: 100%;
 }
 
 @keyframes gradient {

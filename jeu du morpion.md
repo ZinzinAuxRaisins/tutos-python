@@ -77,7 +77,7 @@ def afficher_plateau(plateau):
 
 - Cette fonction prend le plateau de jeu en paramètre et l'affiche à l'écran en utilisant des lignes et des colonnes.
 
-- La boucle for ligne in plateau itère à travers chaque ligne du plateau, et *print("|".join(ligne))* affiche les éléments de la ligne séparés par des "|".
+- La boucle for ligne in plateau itère à travers chaque ligne du plateau, et *print("\|".join(ligne))* affiche les éléments de la ligne séparés par des "\|".
 
 - Ensuite, print("-" * 5) affiche une ligne horizontale pour séparer les lignes du plateau.
 

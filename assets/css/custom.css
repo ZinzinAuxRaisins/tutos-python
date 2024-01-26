@@ -2,11 +2,13 @@
 header {
     background-color:rgba(249,63,251,1);
     color:#000000;
+    border-bottom: 5px solid white;
 }
 
 footer {
     background-color:rgba(249,63,251,1);
     color:#f93ffb;
+    border-top: 5px solid white;
 }
 
 h1 {

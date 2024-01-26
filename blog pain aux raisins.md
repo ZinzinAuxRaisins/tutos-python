@@ -25,9 +25,13 @@ Ce qui distingue les Pains aux Raisins des autres viennoiseries, c'est la pâte 
 
 ## La Garniture Gourmande
 
+![Texte décrivant l'image]({% link images/ob_14e5df_pains-aux-raisins-brioches.JPG %})
+
 La garniture des Pains aux Raisins est une véritable symphonie de saveurs. Les raisins secs, imbibés préalablement dans un sirop parfumé, apportent une douceur naturelle et une texture juteuse. Le tout est souvent complété par une crème pâtissière délicatement vanillée, qui ajoute une touche onctueuse et crémeuse à cette viennoiserie déjà exquise.
 
 ## L'Art de la Présentation
+
+![Texte décrivant l'image]({% link images/patisserie-cyril-lignac-paris-21.jpg %})
 
 Outre leur goût délectable, les Pains aux Raisins séduisent également par leur présentation artistique. En forme d'escargot, chaque spirale est une œuvre d'art comestible. Saupoudrés de sucre glace ou nappés d'un glaçage subtil, ces petits chefs-d'œuvre invitent à une expérience visuelle avant même d'être dégustés.
 

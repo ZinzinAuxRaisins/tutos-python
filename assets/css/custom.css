@@ -14,7 +14,10 @@ footer {
     /*border-top: 5px solid white;*/
 }
 
-.container > a {color:rgba(249,63,251,0);}
+.container > a {
+    color:rgba(249,63,251,0);
+    text-shadow: 0 0 100px #000000;
+}
 
 h1 {
     color:#ffffff;

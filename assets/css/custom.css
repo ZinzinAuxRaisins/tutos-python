@@ -13,7 +13,7 @@ footer {
     /*border-top: 5px solid white;*/
 }
 
-.container {color:rgba(249,63,251,0);}
+.container > a {color:rgba(249,63,251,0);}
 
 h1 {
     color:#000000;

@@ -9,9 +9,11 @@ footer {
     /*background-color:rgba(249,63,251,1);
     color:#f93ffb;*/
     background-color:rgba(249,63,251,0);
-    color:rgba(249,63,251,0)
+    color:rgba(249,63,251,0);
     /*border-top: 5px solid white;*/
 }
+
+.container {color:rgba(249,63,251,0);}
 
 h1 {
     color:#000000;

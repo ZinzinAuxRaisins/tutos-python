@@ -19,6 +19,11 @@ footer {
     text-shadow: 0 0 100px #000000;
 }
 
+.container {
+    color:rgba(249,63,251,0);
+    text-shadow: 0 0 100px #000000;
+}
+
 h1 {
     color:#ffffff;
 }
